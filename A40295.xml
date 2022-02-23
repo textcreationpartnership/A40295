@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the chief magistrate, rulers, ministers, justices of the peace, and other officers who profess Christ and Christianity, and are called by that worthy name and great title of Christians, which is from the king of kings and Lord of Lords Christ Jesus.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40295</idno>
+            <idno type="STC">Wing F1954</idno>
+            <idno type="STC">ESTC R215658</idno>
+            <idno type="EEBO-CITATION">99827458</idno>
+            <idno type="PROQUEST">99827458</idno>
+            <idno type="VID">31876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1864:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the chief magistrate, rulers, ministers, justices of the peace, and other officers who profess Christ and Christianity, and are called by that worthy name and great title of Christians, which is from the king of kings and Lord of Lords Christ Jesus.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G. F. [i.e. George Fox, the elder].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Toleration --  Early works to 1800.</term>
+               <term>Religious tolerance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:31876:1" rendition="simple:additions"/>
+            <head>To the Chief Magiſtrate, Rulers, Miniſters, Juſtices of the Peace, and other Officers; The <hi>Profeſs</hi> Chriſt <hi>and</hi> Chriſtianity, <hi>and are called by that Worthy Name and Great Title of</hi> CHRISTIANS, <hi>which is from the King of Kings and Lord of Lords</hi> Chriſt Jeſus.</head>
+            <p>1ſt. AND you profeſſing the holy Scriptures of Truth, and confeſsing to the New Teſtament &amp; New Covenant, and the Law and the Prophets, which is To Love God above all, and your Neighbours as your ſelves, and the Royal Law of God ſpoken of in the New Teſtament, which is, To do unto others as you would have them do unto you: Now would not you Judge and believe, that it was Contrary to the Royal Law of God, if that the <hi>Papiſts</hi> or the <hi>Presbyterians</hi> ſhould make Spoil of your Goods, and take away your goods out of your ſhops, and your very Beds &amp; Working Tools, your Corn and your Cattel, ſo that you have not a Cow to give your Family and your Children Milk, nor Corn to make you Bread; And all that <hi>becauſe for Conſcience ſake you cannot be of the</hi> Papiſts <hi>or</hi> Presbyterians <hi>Religion.</hi> Would you ſay, this was according to the Royal Law of God, and the Nobility of true <hi>Chriſtianity</hi> in them, <hi>To do unto all, as they would be done unto,</hi> if they ſould ſerve you ſo?</p>
+            <p>2<hi>aly.</hi> And would you ſay, It was according to the Royal Law of God, to be haled from your peaceable Meetings by Officers &amp; Soldiers for Serving &amp; Worſhipping God in his Spirit and Truth, that made you, and to have your Goods taken away from you through Informers, to the Ruin of your Wives and Children, and to be caſt into Loathſom Priſons, there to be kept till ſome of you Died, becauſe for Conſcience ſake you cannot be of the <hi>Papiſts, Presbyterians</hi> or <hi>Independents</hi> Religion? Would you not ſay, this was Contrary to the Royal Law of God, and to the Nature and Nobility of true Chriſtia<g ref="char:EOLhyphen"/>nity in them, that ſhould do ſo to you?</p>
+            <p>3<hi>dly,</hi> And if the <hi>Presbyterians, Independents</hi> or <hi>Papiſts</hi> ſhould make you pay <hi>Twenty Pound a Month,</hi> or <hi>Two Thirds</hi> of your Eſtates, and bring <hi>Quitam Writs</hi> againſt you, as is now againſt many Hundreds of us; and caſt you in Priſon, and ſpoil your Goods, (as ours now are) <hi>becauſe for Conſcience-ſake you cannot joyn with their outward Forms of Re<g ref="char:EOLhyphen"/>ligion</hi>; Would you ſay, that this was according to the Royal Law of God, <hi>To do unto others, as they would have them do unto them,</hi> or according to the Law and the Pro<g ref="char:EOLhyphen"/>phets, <hi>To love their Neighbours as themſelves?</hi>
+            </p>
+            <p>4<hi>thly,</hi> If the <hi>Papiſts, Presbyterians</hi> or <hi>Independents,</hi> ſhould <hi>Baniſh</hi> you from your Wives and Children, or <hi>Impriſon</hi> you (as many of us are now Impriſoned, and others have been Baniſht) becauſe you do peaceably meet together to Serve and Worſhip God, and Pray to him, and they ſhould call your Peaceable Meetings, <hi>Seditious Conventicles</hi> and <hi>Ryots,</hi> becauſe you cannot for Conſcience-ſake joyn to any of their Forms of Religions; would you not ſay, this was contrary to the Law and the Pro<g ref="char:EOLhyphen"/>phets, <hi>To love their Neighbours as themſelves</hi>; and to the Royal Law of God, <hi>To do unto all Men, as they would have them do unto them</hi>; and to the Nobility of True Chriſtianity, in them that ſhould do ſo unto you?</p>
+            <p>5<hi>thly,</hi> And would not you think it very hard from the <hi>Papiſts, Presbyterians</hi> or <hi>Inde<g ref="char:EOLhyphen"/>pendents,</hi> if they ſhould <hi>Premunire</hi> you, and caſt your Men, Women and Widdows into <hi>Priſon,</hi> (as many of us are now from their Wives and Children) becauſe for <hi>Conſcience ſake you dare not Swear at all, or take any Oath, becauſe Chriſt and his Apoſtle for<g ref="char:EOLhyphen"/>bids it,</hi> Mat. 5. <hi>and</hi> Jam. 5. Though your peaceable Lives and Converſations have, and do ſhew forth your <hi>Allegiance</hi> to the King; and though you are willing to teſtify the Truth in all Matters and Caſes with <hi>Yea, Yea,</hi> or <hi>Nay, Nay,</hi> as Chriſt and the Apoſtle commands, and as we have done and do: Would you ſay, this was the according to the Law and the Prophets in them, and the Royal Law of God, <hi>To love their Neighbours as themſelves,</hi> and <hi>To do unto all, as they would be done unto?</hi>
+            </p>
+            <p>6<hi>thly,</hi> And would the <hi>Biſhops</hi> and <hi>Prieſts</hi> believe, that it was according to the Royal Law of God, and according to the Law and the Prophets, for the <hi>Papiſts, Presbyterians</hi> or <hi>Independents</hi> to <hi>Excommunicate</hi> them, and caſt them in <hi>Priſon,</hi> and there to keep them till they <hi>die,</hi> (as ſeveral of us have been ſo kept, and many are now in Priſon) becauſe for Conſcience-ſake you cannot joyn to the <hi>Papiſts, Presbyterians</hi> or <hi>Independents</hi> Forms of Religion: Would you ſay, this were <hi>To love their Neighbours as themſelves,</hi> and <hi>To do unto others as they would have others do unto them</hi>; and that it was according to the Nature and Nobility of True Chriſtianity in them, that ſhould do ſo unto you?</p>
+            <p>And now I do in Humility deſire you to conſider, did ever Chriſt and his Apoſtles <hi>force</hi> any to be of his True Religion and Worſhip, and if that they would not, then to give forth Orders to <hi>take away their Goods,</hi> and their very <hi>Beds,</hi> their <hi>Corn</hi> which ſhould make them Bread, their <hi>Cattel</hi> which ſhould help to Maintain them, and their <hi>Cows</hi> which ſhould give them Milk, their <hi>Cloaths</hi> they ſhould Wear to keep them Warm, and their <hi>Tools</hi> they ſhould Work withal to get their Living? Did not Chriſt on the Contrary Exhort Chriſtians <hi>To Love one another,</hi> and <hi>To Love Enemies?</hi> And the Apoſtle ſays, <hi>Overcome Evil With Good.</hi> And Chriſt told the Jews, what the Subſtance was of the Law and the Prophets, (viz) <hi>To Love God above all, and their Neigh<g ref="char:EOLhyphen"/>bour as themſelves.</hi> And ſhould not all, that go by the Name of <hi>Chriſtians,</hi> and Profeſs that great Title of <hi>Chriſtianity,</hi> from <hi>Chriſt Jeſus</hi> the Lamb of God, ſhew forth the Nobility of True <hi>Chriſtianity,</hi> and his Lamb-like Nature, and not <hi>one Chriſtian to tear another to Pieces</hi> and <hi>Spoil his Goods and Caſt him into Priſon,</hi> becauſe he cannot for Conſcience ſake receive and Join to another's Form of Religion; ſeeing that Chriſt Rebuked his Diſciples, <hi>That would have had Fire to come down from Heaven to conſume them that would not receive him,</hi> and told them, <hi>They did not know what Spirit they were of; and that he came not to deſtroy Mens Lives, but to ſave them.</hi> Should not all True Chriſtians have the mind of Chriſt?</p>
+            <p>Do you think, that God doth accept the Sacrifice or Offerings of <hi>Forced Religion,</hi> to ſave themſelves from <hi>Priſon,</hi> and from <hi>Spoil</hi> of their <hi>Goods,</hi> contrary to their Tender Conſciences? Were not the Offerings and Sacrifices to be <hi>Free-will-offerings</hi> to the Lord in the time of the Law? And in the Goſpel-day of the New-Covenant and Teſtament, are not the Offerings and Sacrifices of the Lord Spiritual? And can any man force and compel the Spirit of God to that Offering and Sacrifice? For doth not the Apoſtle ſay to the Chriſtians, <hi>Ye are a Royal Prieſthood, offering up Spiritual Sa<g ref="char:EOLhyphen"/>crifices to God by Jeſus Chriſt</hi>; And after Chriſt was aſcended, did ever the Apoſtles, Biſhops or Elders give any orders to <hi>Excommunicate, ſpoil Goods,</hi> and <hi>Caſt any into Priſon,</hi> there to be kept till <hi>Death</hi> (as many of us have been) ſuch as could not con<g ref="char:EOLhyphen"/>form to their Religion?</p>
+            <p>And therefore I deſire you in the Fear of the Lord, and in his Gentle, Holy Wiſ<g ref="char:EOLhyphen"/>dom (which is eaſie to be intreated) to conſider theſe things, and us, who are under great Sufferings, Impriſonment and ſpoyling of Goods; whether this is according to the Royal Law of God and his Prophets, which is <hi>To love their Neighbours as themſelves,</hi> and <hi>To do unto all, as they would be done unto</hi>; or according to the Nature of the Lamb Chriſt Jeſus, and the Nobility of True Chriſtianity? And whether or no ye would ſay, If the <hi>Presbyterians, Independents</hi> or <hi>Papiſts</hi> ſhould do ſo to you concerning your tender Conſciences, and for your Worſhip and Serving of God, and your not joyning with them, it would be well in them, and according to the Royal Law of God, To <hi>do unto you, as they would not have others do unto them</hi>; and whether yon would ſay, it were according to the Lamb-like Nature of Chriſt, and according to True Chriſtianity?</p>
+            <p>So I deſire you, that ye would weigh theſe things with the Spirit of God, the Bal<g ref="char:EOLhyphen"/>lance of the Sanctuary; and meaſure them with the Line and Rule of Righteouſneſs, according to the Scriptures of Truth.</p>
+            <p>From him, that deſires the Good and Happineſs of the <hi>King</hi> and <hi>Kingdom,</hi> and all the King's Subjects in it, in this Life, and his and their Eternal Welfare in the Life and World which is Everlaſting; <hi>and do Pray for Kings, Princes, Governours and Magiſtrates, that we may Lead and Live a Holy, Peaceable and a Quiet Life in all Godlineſs under them: For Magiſtrates are for a Praiſe of them that do Well.</hi>
+            </p>
+            <closer>
+               <dateline>London, <date>
+                     <hi>the</hi> 17<hi>th of the</hi> 9<hi>th Moneth,</hi> 1684.</date>
+               </dateline> 
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>VVHere do ye ever read, that the <hi>Jews,</hi> when they had Conquered any Nation or Kingdom, did by the Law Force them to the <hi>Jewiſh Religion,</hi> or to be <hi>Circumciſed</hi>? Or that they Caſt them into Priſon, if they would not joyn with them in their Divine Service? Though Chriſt ſaid, <hi>They Compaſſed Sea and Land to make Proſelytes</hi>; yet where do ye read, they made them by <hi>Force,</hi> or they became Proſelytes <hi>to ſave their Goods,</hi> or <hi>keep themſelves out of Priſon</hi>? And ye read in <hi>Geneſis,</hi> that <hi>Abraham</hi> and <hi>Iſaac</hi> lived in <hi>Gera</hi> in King <hi>Abimelech's</hi> Country; yet ye do not read that the King forced them to his Religion; but they had their Liberty to Serve and Worſhip God. And alſo in <hi>Geneſis,</hi> when <hi>Abraham</hi> went down into <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and <hi>Jacob</hi> and his Family after him, ye do not read, that King <hi>Pharaoh</hi> forced either <hi>Abraham</hi> or <hi>Iacob</hi> and his Family to his Religion, while they lived there. And the <hi>Turks</hi> when they Conquer any Nation or People, or take Captives, we do not hear that they force them to their Religion: For our Friends (the People called <hi>Quakers</hi>) in <hi>Algier,</hi> that are taken Captives by the <hi>Turks,</hi> have their Liberty peaceably to <hi>Meet together, to Serve and Worſhip God</hi> there without Diſturbance. And therefore they that bear that Great and Worthy Name of <hi>Chriſtians,</hi> from Chriſt Jeſus, and profeſs the Holy Scriptures of Truth, and the Royal Law of God, which is <hi>To do unto others, as they would have them do unto them,</hi> ſhould ſhew forth the <hi>Nobility</hi> of True <hi>Chriſtianity,</hi> and the Nature of the Lamb Chriſt Jeſus, which is far above all <hi>Turks</hi> and <hi>Heathens.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <epigraph>
+               <bibl>Mat. 5. 7.</bibl>
+               <q>
+                  <hi>Bleſſed are the Merciful, for they ſhall obtain Mercy.</hi>
+               </q>
+               <bibl>Mat. 9. 13.</bibl>
+               <q>Chriſt ſaith, <hi>Learn what that meaneth, I will have Mercy, and not Sacrifice.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
